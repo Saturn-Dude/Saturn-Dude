@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saturn-Dude
 - 👀 I’m interested in money
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
